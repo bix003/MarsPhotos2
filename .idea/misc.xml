@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/delvi/Downloads/android-basics-kotlin-mars-photos-app-starter/android-basics-kotlin-mars-photos-app-starter/app/src/main/res/drawable/ic_broken_image.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/delvi/Downloads/android-basics-kotlin-mars-photos-app-starter/android-basics-kotlin-mars-photos-app-starter/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
         <entry key="..\:/Users/delvi/Downloads/android-basics-kotlin-mars-photos-app-starter/android-basics-kotlin-mars-photos-app-starter/app/src/main/res/layout/fragment_overview.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/delvi/Downloads/android-basics-kotlin-mars-photos-app-starter/android-basics-kotlin-mars-photos-app-starter/app/src/main/res/layout/grid_view_item.xml" value="0.1" />
       </map>
     </option>
   </component>
